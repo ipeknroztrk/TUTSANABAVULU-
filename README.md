@@ -27,11 +27,6 @@ Test çözmek için test resmini seçin.
 Testi Çöz:
 
 Testi çözmek isterseniz, cevaplarınıza göre en uygun tatil yeri önerisini alabilirsiniz.
-Kurulum
-Projeyi bilgisayarınıza klonlayın.
-Flutter'ı yükleyin ve projeyi çalıştırın.
-Katkıda Bulunma
-Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz! Her türlü katkı, geri bildirim veya öneri için lütfen iletişime geçin.
 
-Uygulamamız, sizi dünyanın kapılarını aralayan bir anahtar gibi düşünün. Yeni yerler keşfetmek, kültürleri tanımak ve seyahatin büyülü dünyasını keşfetmek için uygulamayı deneyin. Size yeni maceralar, lezzetler ve unutulmaz anılar sunuyoruz. Haydi, dünya sizinle! 🌍✈️
+
  
