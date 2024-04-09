@@ -1,4 +1,6 @@
 TutSanaBavulu 🌍✈️
+
+
 TutSanaBavulu, Flutter kullanılarak geliştirilmiş bir seyahat yeri önerme uygulamasıdır. Uygulama, size dünyanın farklı köşelerine ulaşmanın ve yeni yerler keşfetmenin kapılarını aralıyor. İster anlık bir kararla, çarkı döndürerek hemen bir ülkeye yönlendirilin; ister daha derin bir deneyim için kişilik testiyle en uygun tatil yerini bulun. Kullanıcılar, giriş yapabilir veya üye olabilirler. Ardından, seyahat için öneri almak için çarkı döndürmek veya bir test çözmek arasında seçim yapabilirler.
 
 Özellikler
